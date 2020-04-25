@@ -33,7 +33,244 @@
   }],
   "volunteer": [{
     "organization": "Organization",
-    "position": "Volunteer",
+    "position": "Volunteer",{
+  "basics": {
+    "name": "David",
+    "picture": "https://avataaar.welovedevs.com/?accessoriesType=Blank&clotheColor=W3D&clotheType=GraphicShirt&eyeType=Default&eyebrowType=DefaultNatural&facialHairType=Blank&hairColor=Brown&mouthType=Twinkle&skinColor=Light&topType=ShortHairShortFlat&graphicType=W3DLogo",
+    "title": "Software Engineering Fellow",
+    "summary": "Pathologically Curious Software Engineer, Plant Dad, Bicycle Lover, & Passport Stamp Collector.",
+    "location": {
+      "countryCode": "US",
+      "city": "Chicago"
+    }
+  },
+  "work": [
+    {
+      "name": "General Assembly",
+      "position": "Software Engineering Fellow",
+      "index": 0,
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-01",
+      "summary": "Utilized front-end (HTML/CSS, JS, React) & back-end (MongoDB, Node.js, PostgreSQL, Flask) engineering fundamentals during a 500 hr, 12-week training course.",
+      "location": "Chicago, IL, USA",
+      "placeId": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "id": "-M52Wc5uEYjpy1rPp3ib"
+    }
+  ],
+  "education": [
+    {
+      "id": "-M52VOTmSFygv9Gblm9w",
+      "institution": "George Washington School of Medicine and Health Sciences",
+      "index": 0,
+      "studyType": "Medical Degree",
+      "endDate": "2021-01-01"
+    },
+    {
+      "id": "-M52V_-emmIgVu8t4nKr",
+      "institution": "Occidental College",
+      "index": 1,
+      "studyType": "B.A Neuroscience & Spanish",
+      "endDate": "2005-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Bootstrap",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fbootstrap.svg?alt=media&token=b05fff36-19d7-406c-ae8e-5dab552f6aa7",
+      "tags": ["css", "framework"],
+      "url": "https://cdn.filestackcontent.com/KpqfSnDETpWiARvX8goF",
+      "value": 70,
+      "versions": {
+        "font": ["plain", "plain-wordmark"],
+        "svg": ["plain", "plain-wordmark"]
+      }
+    },
+    {
+      "name": "Express",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fexpress.svg?alt=media&token=32487d58-88f3-433b-9027-5f08ac94daf4",
+      "tags": ["framework"],
+      "url": "https://cdn.filestackcontent.com/mNcDFXIPSmynrVNdU9kh",
+      "value": 70,
+      "versions": {
+        "font": ["original", "original-wordmark"],
+        "svg": ["original", "original-wordmark"]
+      }
+    },
+    {
+      "name": "Git",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fgit.svg?alt=media&token=eee32daf-d3f6-434a-a334-9c7a7306e5d7",
+      "tags": ["version-control"],
+      "url": "https://cdn.filestackcontent.com/NV7nar6ZRrC5zrIGO85h",
+      "value": 70,
+      "versions": {
+        "font": ["plain", "plain-wordmark"],
+        "svg": ["original", "original-wordmark", "plain", "plain-wordmark"]
+      }
+    },
+    {
+      "name": "HTML5",
+      "tags": ["programming", "language"],
+      "url": "https://cdn.filestackcontent.com/Le6p4xlUQkW189RcHcBT",
+      "value": 70
+    },
+    {
+      "name": "Github",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fgithub.svg?alt=media&token=34daa466-614f-432d-ab46-34d6c59ac484",
+      "tags": ["version-control"],
+      "url": "https://cdn.filestackcontent.com/TE6wGcPvRlGfV21tTuew",
+      "value": 70,
+      "versions": {
+        "font": ["plain", "plain-wordmark"],
+        "svg": ["original", "original-wordmark"]
+      }
+    },
+    {
+      "name": "Javascript",
+      "tags": ["programming", "language"],
+      "url": "https://cdn.filestackcontent.com/6ZrIEmWRgycFn9smUNzN",
+      "value": 70
+    },
+    {
+      "name": "MongoDB",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fmongodb.svg?alt=media&token=84012640-b9b1-4633-ac01-7c02a2e9e3c2",
+      "tags": ["database"],
+      "url": "https://cdn.filestackcontent.com/4MCrxzxTVWb5bzm20Qjc",
+      "value": 70,
+      "versions": {
+        "font": ["plain", "plain-wordmark"],
+        "svg": ["original", "original-wordmark", "plain", "plain-wordmark"]
+      }
+    },
+    {
+      "name": "Python",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fpython.svg?alt=media&token=6b9d61c0-6407-4e9a-b1bf-7e5ace8968cd",
+      "tags": ["programming", "language"],
+      "url": "https://cdn.filestackcontent.com/RTyYmcsQh2XLlnRR2gag",
+      "value": 70,
+      "versions": {
+        "font": ["plain", "plain-wordmark"],
+        "svg": ["original", "original-wordmark", "plain", "plain-wordmark"]
+      }
+    },
+    {
+      "name": "PostgreSQL",
+      "tags": ["database"],
+      "url": "https://cdn.filestackcontent.com/o0yFHIQyQTOVhoi6O1V7",
+      "value": 70
+    },
+    {
+      "name": "NodeJS",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fnodejs.svg?alt=media&token=a2570931-22f4-49dd-9510-e036f3e05e5c",
+      "tags": ["javascript", "language"],
+      "url": "https://cdn.filestackcontent.com/7MhNX9D9TnSlvNFxgGWD",
+      "value": 70,
+      "versions": {
+        "font": ["plain", "plain-wordmark"],
+        "svg": ["original", "original-wordmark", "plain", "plain-wordmark"]
+      }
+    },
+    {
+      "name": "React",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Freact.svg?alt=media&token=b632282e-4e89-49bb-9bf5-23f99bbc6996",
+      "tags": ["framework"],
+      "url": "https://cdn.filestackcontent.com/nqg4oH2SlWw2g0gakzQg",
+      "value": 70,
+      "versions": {
+        "font": ["original", "original-wordmark"],
+        "svg": ["original", "original-wordmark"]
+      }
+    },
+    {
+      "name": "Slack",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fslack.svg?alt=media&token=754aa24b-716e-4a2c-8b41-cbe0084deeb7",
+      "tags": ["chat"],
+      "url": "https://cdn.filestackcontent.com/JIU9GMeSymSJN3cV6ckO",
+      "value": 70,
+      "versions": {
+        "font": ["plain", "plain-wordmark"],
+        "svg": ["original", "original-wordmark", "plain", "plain-wordmark"]
+      }
+    },
+    {
+      "name": "Flask",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fflask.png?alt=media&token=ce8f284f-95d3-473f-8d8c-fcd0b1de99fe",
+      "tags": ["tag n°1", "tag n°2", "tag n°3"],
+      "url": "https://cdn.filestackcontent.com/9jlsa0F3TUmFi1e1hhuw",
+      "value": 70
+    },
+    {
+      "name": "Prettier",
+      "url": "https://cdn.filestackcontent.com/7wKIQs5NSqewn7yVoFyD",
+      "value": 70
+    },
+    {
+      "name": "iOS",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fios.svg?alt=media&token=f578ef06-ee31-4dc4-a8cd-3f70caf4e760",
+      "tags": ["ios", "apple"],
+      "url": "https://cdn.filestackcontent.com/1veQYuEgRpyj2XoO4BCu",
+      "value": 70
+    },
+    {
+      "name": "SQLite",
+      "url": "https://cdn.filestackcontent.com/0W6gonMeSBOH4pCCHFqD",
+      "value": 70
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "position": 0,
+      "value": 100,
+      "language": "English",
+      "id": "-M52Wwb5iYy7b9bnyOp5"
+    },
+    {
+      "name": "Spanish",
+      "position": 1,
+      "value": 90,
+      "language": "Spanish",
+      "id": "-M52WzLHbnJXGOXwq6ev"
+    }
+  ],
+  "interests": [],
+  "projects": [],
+  "specific": {
+    "basics": {
+      "visaSponsorship": false,
+      "personalDescription": ""
+    },
+    "dreamJob": {
+      "locations": [
+        {
+          "id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+          "index": 0,
+          "placeId": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+          "name": "Chicago, IL, USA"
+        }
+      ],
+      "salary": "",
+      "perks": {
+        "challenge": true,
+        "mood": true,
+        "salary": true
+      },
+      "remoteFrequency": "occasionally"
+    },
+    "currentJob": {},
+    "education": {
+      "studiesLevel": 5
+    },
+    "work": {
+      "contractTypes": ["freelance", "permanent"],
+      "codingYears": 1,
+      "searchState": "activelySearching",
+      "experienceYears": 10
+    },
+    "sound": {},
+    "interestedBy": "Google Cloud, FireBase"
+  }
+}
+
     "website": "http://organization.com/",
     "startDate": "2020-01-01",
     "endDate": "2020-01-01",
